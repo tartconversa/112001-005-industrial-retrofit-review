@@ -1,0 +1,4 @@
+measure_id,line_id,measure,effective_date,verification_status,claimed_saving_kwh
+R01,L01,motor_replacement,2026-01-15,verified,54000
+R02,L02,heat_recovery,2026-02-01,pending,38000
+R03,L01,compressed_air,2026-03-01,verified,21000

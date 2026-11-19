@@ -1,0 +1,4 @@
+meter_id,line_id,period,energy_kwh,output_t,operating_hours,coverage_pct
+M01,L01,2025-Q4,820000,12000,1800,98
+M01,L01,2026-Q1,790000,12600,1750,97
+M02,L02,2026-Q1,440000,8000,1320,72

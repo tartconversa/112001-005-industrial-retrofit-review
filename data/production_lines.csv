@@ -1,0 +1,4 @@
+line_id,facility_id,product,valid_from,valid_to
+L01,F-A,steel,2025-01-01,
+L02,F-B,cement,2025-01-01,2026-03-31
+L02,F-B,cement_blend,2026-04-01,
