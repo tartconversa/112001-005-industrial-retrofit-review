@@ -1,5 +1,5 @@
-# Synthetic input data
+# 合成输入数据
 
-Synthetic production-boundary, meter, output and retrofit records for facility-period evaluation.
+用于分期评估企业改造的合成生产边界、计量、产量与改造记录。
 
-All records are fictional and intended only for local development. Dates and measurements are illustrative.
+所有记录均为虚构，仅供本地开发使用。日期与数值均为示例。
