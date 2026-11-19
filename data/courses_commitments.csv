@@ -1,0 +1,4 @@
+course_id,provider_id,skill_code,period,seats,fee_per_seat,employer_job_code,planned_openings,commitment_status
+C10,TR-A,process_tech,2026-Q2,18,1250,process_tech,12,planned
+C11,TR-B,solar_maintenance,2026-Q2,8,2100,solar_maintenance,6,confirmed
+C12,TR-A,process_tech,2026-Q3,10,1300,process_tech,5,withdrawn

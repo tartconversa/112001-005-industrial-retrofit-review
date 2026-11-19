@@ -1,0 +1,4 @@
+outcome_id,person_token,course_id,event_date,event_type,job_code,employer_id,retained_90d
+O01,P-17,C10,2026-05-20,completed,process_tech,F-A,
+O02,P-17,C10,2026-06-03,started,process_tech,F-A,
+O03,P-42,C11,2026-06-10,offer,solar_maintenance,F-C,

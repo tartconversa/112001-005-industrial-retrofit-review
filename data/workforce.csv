@@ -1,0 +1,4 @@
+record_id,person_token,employer_id,period,role_code,employment_status,group_code
+W01,P-17,F-A,2026-Q1,press_operator,employed,G1
+W02,P-17,TRAIN-4,2026-Q1,process_tech,training,G1
+W03,P-42,F-B,2026-Q1,maintenance,at_risk,G2
